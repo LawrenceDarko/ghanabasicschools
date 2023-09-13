@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/LawrenceDarko/ghanabasicschools/static/css/main.ceb6f3e2.css",
-    "main.js": "/LawrenceDarko/ghanabasicschools/static/js/main.6dc9429a.js",
-    "static/js/787.0994a443.chunk.js": "/LawrenceDarko/ghanabasicschools/static/js/787.0994a443.chunk.js",
-    "index.html": "/LawrenceDarko/ghanabasicschools/index.html",
-    "main.ceb6f3e2.css.map": "/LawrenceDarko/ghanabasicschools/static/css/main.ceb6f3e2.css.map",
-    "main.6dc9429a.js.map": "/LawrenceDarko/ghanabasicschools/static/js/main.6dc9429a.js.map",
-    "787.0994a443.chunk.js.map": "/LawrenceDarko/ghanabasicschools/static/js/787.0994a443.chunk.js.map"
+    "main.css": "/ghanabasicschools/static/css/main.ceb6f3e2.css",
+    "main.js": "/ghanabasicschools/static/js/main.9a472023.js",
+    "static/js/787.0994a443.chunk.js": "/ghanabasicschools/static/js/787.0994a443.chunk.js",
+    "index.html": "/ghanabasicschools/index.html",
+    "main.ceb6f3e2.css.map": "/ghanabasicschools/static/css/main.ceb6f3e2.css.map",
+    "main.9a472023.js.map": "/ghanabasicschools/static/js/main.9a472023.js.map",
+    "787.0994a443.chunk.js.map": "/ghanabasicschools/static/js/787.0994a443.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ceb6f3e2.css",
-    "static/js/main.6dc9429a.js"
+    "static/js/main.9a472023.js"
   ]
 }
