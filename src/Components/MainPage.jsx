@@ -34,8 +34,8 @@ const MainPage = () => {
   return (
     <div className=''>
         <div className='flex flex-col gap-4'>
-            <div className='flex gap-4 h-72'>
-                <div className='h-[100%] w-[40%] border'>
+            <div className='flex flex-col-reverse gap-4 md:flex-row md:h-72'>
+                <div className='h-[100%] w-full md:w-[40%] border'>
                   <div class="grid gap-6 mb-6 p-5">
                   <TextField sx={{ minWidth: 120 }} value={nameFilter} onChange={handleNameChange} id="outlined-basic" label="Search School" variant="outlined" size="small"/>
                   
@@ -93,7 +93,7 @@ const MainPage = () => {
             
                   </div>
                 </div>
-                <div className='h-[100%] w-[60%] border'>
+                <div className='h-[100%] w-full md:w-[60%] border'>
                   <img className='w-full h-full object-cove' src='news.png'/>
                 </div>
             </div>
