@@ -45,7 +45,7 @@ const MainPage = () => {
                       labelId="demo-select-small"
                       id="demo-select-small"
                       value={regionFilter}
-                      label="Age"
+                      label="Region"
                       onChange={handleRegionChange}
                     >
                       <MenuItem value="">

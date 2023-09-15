@@ -4,7 +4,8 @@ import { Box } from '@mui/material';
 import axios from 'axios';
 
 //nested data is ok, see accessorKeys in ColumnDef below
-export const BASE_URL = "http://127.0.0.1:8000"
+// export const BASE_URL = "http://127.0.0.1:8000"
+export const BASE_URL = "https://ghanabasicschools.pythonanywhere.com"
 
 const NewTable = ({locationFilter, regionFilter, districtFilter, nameFilter}) => {
   //should be memoized or stable
